@@ -1,4 +1,4 @@
-:HL["/PriceWise-Preview/_next/static/css/04d6077b47306302.css","style"]
+:HL["/PriceWise-Preview/_next/static/css/fc6c45f728734717.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"w-J227WTcWNDi0Cgdwrk5","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"QoOzG7qVq9w1P90KaqCZT","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
