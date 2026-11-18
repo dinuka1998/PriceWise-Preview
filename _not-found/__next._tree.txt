@@ -1,4 +1,4 @@
 :HL["/PriceWise-Preview/_next/static/css/04d6077b47306302.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"F8bUdJwSLszUf8rqqBpFD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"0hKWGoGqT71R35d5EsW5n","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
